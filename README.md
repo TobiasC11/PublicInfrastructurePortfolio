@@ -18,6 +18,6 @@ In this github repository you cand find the following files:
 * Graphs and Charts utilized in the report (Assets)
 
 You can access an interactive dashboard to better visualize the findings described in the report:
-![Dashboard](https://public.tableau.com/app/profile/tobias.casco/viz/ArgentinaPublicInfrastructureRegional/Dashboard1)
+[Dashboard](https://public.tableau.com/app/profile/tobias.casco/viz/ArgentinaPublicInfrastructureRegional/Dashboard1)
   
 
