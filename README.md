@@ -9,6 +9,11 @@ The project is based on a comprehensive analysis about Argentina’s Public Infr
 
 ![Infrastructure Distribution Pie](https://github.com/TobiasC11/PublicInfrastructurePortfolio/assets/138330234/d103cb08-0d38-44c4-b0f8-1e233edabeed)
 
+![Project Statuses Sector](https://github.com/TobiasC11/PublicInfrastructurePortfolio/assets/138330234/86d59caf-1579-4e2f-b785-4b09462b2f82)
+
+![Project Completion time evolution](https://github.com/TobiasC11/PublicInfrastructurePortfolio/assets/138330234/bed64dec-848e-4e7c-a8d0-0d1196b01834)
+
+
 ### Files 
 
 In this github repository you cand find the following files:
